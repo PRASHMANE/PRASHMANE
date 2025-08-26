@@ -2,7 +2,7 @@
 <h3 align="center">AI/ML | Data Science | MLOps Engineer</h3>
 
 <p align="center">
-  <img src="https://path-to-your-chosen-banner.png" alt="AI/ML Dark Banner" width="100%" />
+  <img src="[https://path-to-your-chosen-banner.png](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.analyticssteps.com%2Fblogs%2Fartificial-intelligence-machine-learning-5-developing-ai-ml-trends-watch-2021&psig=AOvVaw3g5mYWs09CF-XkoUAEuHAT&ust=1756285302985000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCPD7ueeOqI8DFQAAAAAdAAAAABAE)" alt="AI/ML Dark Banner" width="100%" />
 </p>
 
 
