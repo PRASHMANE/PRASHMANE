@@ -2,8 +2,23 @@
 <h3 align="center">AI/ML | Data Science | MLOps Engineer</h3>
 
 <p align="center">
+  <img src="https://path-to-your-chosen-banner.png" alt="AI/ML Dark Banner" width="100%" />
+</p>
+
+
+<p align="center">
   <img src="https://komarev.com/ghpvc/?username=PRASHMANE&label=Profile%20views&color=0e75b6&style=flat" alt="PRASHMANE" />
 </p>
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="dark-banner.png">
+    <source media="(prefers-color-scheme: light)" srcset="light-banner.png">
+    <img alt="AI/ML Themed Banner" src="light-banner.png" />
+  </picture>
+</p>
+
+
 
 ---
 
